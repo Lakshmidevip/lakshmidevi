@@ -1,0 +1,27 @@
+<html>
+ <head></head>
+ <body>
+   <style>
+     <body>
+       {
+         background-color:orange;
+       background-img:url('img.jpg');
+       background-size:200px;
+       background-repeat:norepeat;
+       background-attachment:fixed;
+       background-positionx:left;
+       background-positiony:bottom;   
+       }
+       
+         
+     </body>
+     
+     
+     
+     </style>
+
+    
+   
+ 
+ </body>
+</html>
